@@ -5,11 +5,6 @@ Heart Failure (HF) is traditionally defined as a clinical syndrome of pump failu
 
 We propose that the adult heart is maintained by a high-tension 3D genomic scaffold—a "structural masonry"—that ensures stable gene expression. By constructing a differentiable Riemannian manifold of the human cardiac transcriptome, we investigate how the physical "melting" of this architecture increases geometric friction, trapping cardiomyocytes in an irreversible pathological state termed the **Entropic Trap**.
 
-
-
-[Image of the human heart showing failure]
-
-
 ---
 
 ## 2. Methodology
